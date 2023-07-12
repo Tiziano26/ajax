@@ -81,8 +81,6 @@ function solicitudAJAX(params) {
       <h5 class="card-title">` +
               nombre +
               `</h5>
-      <p class="card-text"></p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
     </div>
   </div>`;
             tarjetas.innerHTML = html;

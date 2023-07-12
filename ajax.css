@@ -33,6 +33,12 @@ body {
     color: black;
   }
 
+  #ConteinerCard{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 12px;
+  }
+
   header{
     display: flex;
     justify-content: space-between;
